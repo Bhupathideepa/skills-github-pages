@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title in Index: Welcome to my blog! Deepabhupathi.
 ---
